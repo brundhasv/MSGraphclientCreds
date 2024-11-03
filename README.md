@@ -18,5 +18,5 @@ Microsoft Graph API is a gateway to data and service management in Microsoft 365
 
 ## Explanation of Code here:
 
-https://dev.to/brundhasv/ms-graph-api-certificate-and-client-credentials-authentication-in-java-spring-boot-3hc7
+https://dev.to/brundhasv/ms-graph-api-certificate-and-client-credentials-oauth20-in-java-spring-boot-122c
 
