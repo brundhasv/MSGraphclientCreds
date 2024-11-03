@@ -1,4 +1,4 @@
-# MS Graph API Certificate and Client credentials OAuth2.0 in Java Spring boot
+# MS Graph API Certificate and Client Secret OAuth2.0 in Java Spring boot
 
 ## Overview
 
